@@ -2,8 +2,14 @@
 
 Hello,
 <br />this is a Minecraft resource pack that changes how the GUI looks.
+<br />I don't like how the original GUI looks and I need something that suits me more,
+<br />so I can continue playing this awesome game, but also make the experience more modern.
+
+I'll keep updating this resource pack once a month or two,
+<br />depending on how many feature requests are made during the time.
+
 <br /><br />Changes made to the textures are listed below;
-<br />>This list doesn't cover all changes (it's up to you to find out! 😉)
+>This list doesn't cover all changes (it's up to you to find out! 😉)
 
 ## Blocky mess removed from almost all buttons
 
@@ -21,4 +27,17 @@ Hello,
 ## Bars are now straightened and have a single color base
 
 ![image](https://user-images.githubusercontent.com/97387354/208483171-4af03e7b-44dc-4516-93e1-e45add778eb6.png)
-![image](https://user-images.githubusercontent.com/97387354/208483221-5c4c7ce8-3da3-4e8e-b014-a8a0a176037a.png)<br /><br />
+![image](https://user-images.githubusercontent.com/97387354/208485628-8ce41357-d7d1-4bf5-9eaa-08eceeadb4b0.png)<br /><br />
+
+
+
+## Containers (inventories) are completely remade (this includes geometry, coloring, content...)
+
+![image](https://user-images.githubusercontent.com/97387354/208485445-8c8f8a2e-7d4f-4908-aa2d-e7087c36a92a.png)
+![image](https://user-images.githubusercontent.com/97387354/208485309-28fc4153-5b16-4749-8fb3-2d61e49669f2.png)<br /><br />
+
+### Inspiration
+
+A few features have been made with inspiration from another resource pack called **Reimagined Gui**
+The link for the resource pack is https://www.curseforge.com/minecraft/texture-packs/reimaginedgui
+
