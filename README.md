@@ -11,6 +11,9 @@ I'll keep updating this resource pack once a month or two,
 <br /><br />Changes made to the textures are listed below;
 >This list doesn't cover all changes (it's up to you to find out! 😉)
 
+**ATTENTION!** This resource pack was made with using a mod called "Modern UI" in mind.
+<br />It is not mandatory to use this resource pack, but it will make things look better.
+
 ## Blocky mess removed from almost all buttons
 
 ![image](https://user-images.githubusercontent.com/97387354/208481576-d3016299-80db-4349-9e08-0df632020b80.png)
