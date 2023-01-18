@@ -3,7 +3,7 @@
 Hello,
 <br />this is a Minecraft resource pack that changes how the GUI looks.
 <br />I don't like how the original GUI looks and I need something that suits me more,
-<br />so I can continue playing this awesome game, but also make the experience more modern.
+<br />so I can continue playing this awesome game, but also make the game feel more up to modern standards.
 
 I'll keep updating this resource pack once a month or two,
 <br />depending on how many feature requests are made during the time.
